@@ -1,0 +1,1 @@
+{"uuid":"bc70701c-115e-4fe0-9eb8-d9cf2a60c53d","name":"TestPages.BasePage.setUp","children":["be03a09e-934d-432b-8352-1d6f3dcb5f8d"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745588958819,"stop":1745588962772}],"afters":[],"start":1745588958818,"stop":1745588962772}

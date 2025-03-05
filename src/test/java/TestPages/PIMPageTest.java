@@ -7,6 +7,9 @@ import org.testng.annotations.Test;
 
 public class PIMPageTest extends BasePage {
 
+    // login test enhancement
+
+
     @Test
     public void testNavigateToPIMPageAndAddEmployee() throws InterruptedException {
 

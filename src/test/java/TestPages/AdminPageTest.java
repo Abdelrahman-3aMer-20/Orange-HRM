@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 public class AdminPageTest extends BasePage {
 
-//Test - Admin 
+//Test - Admin
 
     AdminPage adminPage;
     AuthHelper authHelper;
